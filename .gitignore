@@ -1,0 +1,26 @@
+# =============== #
+# Unity generated #
+# =============== #
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+
+# Visual Studio / Rider / etc
+.vs/
+.vscode/
+*.sln
+*.csproj
+
+# Packages
+/[Pp]ackages/[Ll]og/
+/[Pp]ackages/com.unity.package-manager.cache/
+
+# User-specific settings
+UserSettings/
+
+# Mac / Linux
+.DS_Store
